@@ -1,3 +1,3 @@
 ##Welcome to Jisoo's GitHub
 <br>
-https://panton99.netlify.app/
+My personal website : https://panton99.netlify.app/
