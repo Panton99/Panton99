@@ -5,3 +5,6 @@
 
 <br>
 My personal website : https://panton99.netlify.app/
+
+
+![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panton99&show_icons=true&theme=transparent)
