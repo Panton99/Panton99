@@ -4,7 +4,10 @@
 </p>
 
 <br>
-My personal website : https://panton99.netlify.app/ <br>
+
+<p align="center">
+ My personal website : https://panton99.netlify.app/ <br>
+</p>
 
 <a href="https://github.com/Panton99/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Panton99&show_icons=true&theme=transparent" />
