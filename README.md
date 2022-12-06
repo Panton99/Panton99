@@ -13,6 +13,6 @@ My personal website : https://panton99.netlify.app/ <br>
   <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,mysql,r,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=java,js,py,mysql,r,html,css,git,figma&theme=light)" />
   </a>
 </p>
