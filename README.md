@@ -24,7 +24,7 @@
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos//git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="45" height="55"/>
   </a>
