@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panton99&layout=compact&theme=transparent)](https://github.com/Panton99/github-readme-stats) <br> -->
 <p align="center">
-<a href="https://www.linkedin.com/in/jisoo-lee-b200a215b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jLee" height="30" width="30"/></a>
+<a href="https://www.linkedin.com/in/jisoo-lee-b200a215b/" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/logos/linkedin/linkedin-icon.svg" alt="jLee" height="30" width="30"/></a>
 </p>
 
   <br>
