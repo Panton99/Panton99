@@ -7,6 +7,10 @@
 
 
 
+<!-- <a href="https://github.com/Panton99/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Panton99&show_icons=true&theme=transparent" />
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panton99&layout=compact&theme=transparent)](https://github.com/Panton99/github-readme-stats) <br> -->
 <p align="center">
 <a href="https://www.linkedin.com/in/jisoo-lee-b200a215b/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn" height="30" width="30"/></a>
